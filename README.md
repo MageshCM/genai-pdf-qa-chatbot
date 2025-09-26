@@ -103,4 +103,4 @@ while True:
 Thus, a question-answering chatbot capable of processing and extracting information from a provided PDF document using LangChain was implemented and evaluated for its effectiveness by testing its responses to diverse queries derived from the document's content successfully.
 
 
-### RESULT:
+
